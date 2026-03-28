@@ -88,8 +88,6 @@ Deux scripts Python personnalisés ont été développés pour analyser les logs
 ├── scripts/
 │   ├── analyzer_cli.py  # Analyseur interactif en ligne de commande
 │   └── dashboard_gui.py # Dashboard avec interface graphique
-└── rules/
-    └── local.rules      # Règles de détection Suricata personnalisées
 ```
 
 ---
